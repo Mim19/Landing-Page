@@ -1,0 +1,8 @@
+.box__list-link:hover {
+  border-color: black;
+}
+
+.portfolio__slide__hover:hover {
+  background: url("../img/portfolio-hover-img.png");
+  opacity: 1;
+}
